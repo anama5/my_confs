@@ -9,6 +9,7 @@ set cursorline
 "set cursorcolumn
 set scrolloff=3
 set autoread
+set autowrite
 set t_Co=256
 set backspace=indent,eol,start
 set wrap
